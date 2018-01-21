@@ -1,0 +1,6 @@
+C:\Users\Максим\source\repos\LoginsPages\LoginsPages\obj\Debug\LoginsPages.csprojResolveAssemblyReference.cache
+C:\Users\Максим\source\repos\LoginsPages\LoginsPages\obj\Debug\Login.g.cs
+C:\Users\Максим\source\repos\LoginsPages\LoginsPages\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\LoginsPages\LoginsPages\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\LoginsPages\LoginsPages\obj\Debug\LoginsPages_MarkupCompile.cache
+C:\Users\Максим\source\repos\LoginsPages\LoginsPages\obj\Debug\LoginsPages_MarkupCompile.lref
